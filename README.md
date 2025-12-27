@@ -19,7 +19,7 @@ This project analyzes Spotify tracks, albums and artists using Excel.
 
 ## 📁 Files
 - Spotify_Dashboard.xlsx (interactive Excel dashboard)
-- Dashboard.png
+- Analysis.png
 
 ## 🔍 Dataset
 Spotify track, artist, and album data including popularity, followers, release dates and audio features.
