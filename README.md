@@ -18,7 +18,7 @@ This project analyzes Spotify tracks, albums and artists using Excel.
 - Custom number formatting
 
 ## 📁 Files
-- Spotify_Dashboard.xlsx (interactive Excel dashboard)
+- Dashboard.xlsx (interactive Excel dashboard)
 - Analysis.png
 
 ## 🔍 Dataset
